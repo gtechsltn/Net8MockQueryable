@@ -8,7 +8,7 @@ dotnet new gitignore
 git init
 git remote add origin https://github.com/gtechsltn/Net8MockQueryable.git
 git add .
-git commit -m “First Commit”
+git commit -m "First Commit"
 git pull origin master
 git push origin master
 git push -u origin master
